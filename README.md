@@ -1,5 +1,5 @@
 # MEDITOOL
-HackSummit 2.0
+Aarush HackSummit 2.0
 
 #To run the file 
 1.Open file3.py
